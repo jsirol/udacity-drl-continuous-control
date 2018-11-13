@@ -1,3 +1,8 @@
+"""
+Base implementation adapted from the one provided in the Udacity 'Deep Reinforcement Learning' Nanodegree
+course materials (see: https://eu.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+"""
+
 import numpy as np
 import random
 import copy
