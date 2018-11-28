@@ -1,5 +1,5 @@
 # udacity-drl-continuous-control
-Udacity Deep Reinforecement Learning Nanodegree project repo
+Train robotic arms to follow targets using Deep Deterministic Policy Gradients.
 
 # Project details
 The task in this project was to train an agent to solve an environment where 20 double-jointed arms need to be controlled to stay in moving target locations. The task is episodic and considered solved when the average score received 100 consecutive episodes and over the 20 agents (arms) exceeds +30. 
